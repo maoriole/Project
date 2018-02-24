@@ -5,4 +5,4 @@
 #will be added: a client server, checking sub domains,  generic for other sites, and vulnerabilities checking.
 
 #lib used(need to be installed): netaddr, sqlite3, bs4 (Beautiful Soup4), urllib.
-#lib used: socket, math, time, struct.
+#lib used: socket, math, time, struct
